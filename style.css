@@ -1,0 +1,27 @@
+.coupon {
+  border: 5px dotted #bbb;
+  width: 80%;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 37.5rem;
+}
+
+.container1 {
+  padding: 0.125rem 1rem;
+  background-color: rgb(25, 30, 48);
+  border-radius: 15px 15px 0 0;
+}
+
+.container {
+  padding: 0.125rem 1rem;
+  background-color: #f1f1f1;
+}
+
+.promo {
+  background: #ccc;
+  padding: 0.188rem;
+}
+
+.expire {
+  color: red;
+}
